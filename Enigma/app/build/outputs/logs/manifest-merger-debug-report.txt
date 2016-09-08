@@ -1,0 +1,131 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:5:5-83
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:6:5-85
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:6:22-66
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:8:5-90
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:9:5-92
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:10:5-92
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:11:5-97
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:12:5-95
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:13:5-83
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:13:22-64
+application
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:15:5-41:19
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:20:9-40
+activity#dev.enigmatic.enigma.index
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:21:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:25:27-73
+activity#dev.enigmatic.enigma.Splash
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:28:9-33:20
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:28:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:29:13-32:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:31:17-86
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:31:27-74
+activity#dev.enigmatic.enigma.SMSActivity
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:34:9-36:20
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:34:19-46
+activity#dev.enigmatic.enigma.CallActivity
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:37:9-59
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:37:19-47
+activity#dev.enigmatic.enigma.WifiActivity
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:38:9-59
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:38:19-47
+activity#dev.enigmatic.enigma.BluetoothActivity
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:39:9-64
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:39:19-52
+activity#dev.enigmatic.enigma.GPSActivity
+ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:40:9-58
+	android:name
+		ADDED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml:40:19-46
+uses-sdk
+INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.2.1] C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Rushabh\AndroidStudioProjects\Enigma\app\src\main\AndroidManifest.xml

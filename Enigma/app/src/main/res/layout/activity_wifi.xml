@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg"
+    android:layout_height="match_parent">
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/switch2"
+        android:layout_x="118dp"
+        android:layout_y="205dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="56dp"
+        android:layout_height="32dp"
+
+        android:id="@+id/st"
+        android:layout_x="262dp"
+        android:layout_y="49dp"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/textView"
+        android:layout_marginTop="33dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Wifi Switch"
+        android:textSize="35dp"
+        android:id="@+id/textView"
+        android:layout_x="90dp"
+        android:layout_y="97dp"
+        android:layout_above="@+id/switch2"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

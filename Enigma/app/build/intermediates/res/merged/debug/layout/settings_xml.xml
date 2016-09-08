@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".ListActivity"
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:padding="10dp"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Services"
+        android:id="@+id/services_text_header" />
+
+    <ListView
+        android:layout_marginTop="8dp"
+        android:id="@+id/service_list"
+        android:paddingLeft="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="95dp"
+        android:layout_weight="0.05">
+    </ListView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Settings"
+        android:id="@+id/settings_text_header" />
+
+    <ListView
+        android:layout_marginTop="8dp"
+        android:id="@+id/settings_list"
+        android:paddingLeft="30dp"
+        android:textColor="#000"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="0.50">
+    </ListView>
+
+</LinearLayout>
